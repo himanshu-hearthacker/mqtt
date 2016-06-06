@@ -1,0 +1,4 @@
+mqtt_pub1.py is a msg publisher
+mqtt_sub1.py is a msg subscriber
+
+In the connect use the ip address of the host.
